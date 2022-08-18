@@ -28,4 +28,5 @@ To create a release:
 
 ## Running example dapp
 
-1. cd into the dapp and yarn start
+1. run `yarn bootstrap` from the root of the project
+2. cd into the dapp and yarn start
