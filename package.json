@@ -50,6 +50,10 @@
     "node": "16.13.1",
     "yarn": "1.22.17"
   },
+  "resolutions": {
+    "parse-path": "5.0.0",
+    "nth-check": "2.0.1"
+  },
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
